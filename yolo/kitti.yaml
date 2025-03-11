@@ -1,0 +1,6 @@
+path: D:\venv sa python 3.9\rmvid_data
+train: images/train
+val: images/val
+test: images/test
+nc: 7  # Broj klasa
+names: ["Car", "Van", "Truck", "Pedestrian", "Person_sitting", "Cyclist", "Tram"]

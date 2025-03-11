@@ -1,0 +1,34 @@
+Klasa: Car
+  Visoko povjerenje: 1729 objekata
+  Srednje povjerenje: 915 objekata
+  Nisko povjerenje: 500 objekata
+
+Klasa: Cyclist
+  Nisko povjerenje: 29 objekata
+  Srednje povjerenje: 42 objekata
+  Visoko povjerenje: 14 objekata
+
+Klasa: Van
+  Visoko povjerenje: 105 objekata
+  Nisko povjerenje: 35 objekata
+  Srednje povjerenje: 82 objekata
+
+Klasa: Pedestrian
+  Srednje povjerenje: 194 objekata
+  Nisko povjerenje: 71 objekata
+  Visoko povjerenje: 25 objekata
+
+Klasa: Truck
+  Visoko povjerenje: 56 objekata
+  Srednje povjerenje: 30 objekata
+  Nisko povjerenje: 17 objekata
+
+Klasa: Tram
+  Nisko povjerenje: 10 objekata
+  Srednje povjerenje: 24 objekata
+  Visoko povjerenje: 15 objekata
+
+Klasa: Person_sitting
+  Srednje povjerenje: 2 objekata
+  Nisko povjerenje: 3 objekata
+
